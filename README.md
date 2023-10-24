@@ -1,1 +1,1 @@
-# Website_with_Java
+This is the portal for students and Lecturers. The students may recieve and submit assignments through it, and get their marks. While Lecturer should upload and recieve students assignments, and then update their makrs.
